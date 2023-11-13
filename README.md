@@ -18,9 +18,11 @@
 独特数据本身很难获取，但是我有个绝招白嫖别人的数据，答案就是使用bing search
 
 你只要启动bing search去搜索，配合高级语法，就能得到独特的数据。
-## prompt 分析
+## 案例分析
 
 我做的是搜索gpts的gpts：https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao
+
+你可以试用一下
 
 我开源一下我的prompt：
 1. Extract keywords and translate them into English, which is very important.
@@ -43,3 +45,5 @@
 3. 返回格式化的数据
 4. 搜索兜底
 5. prompt防护
+
+## 如果你看到这里了，可以点个star
